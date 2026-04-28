@@ -45,4 +45,3 @@ function createEvent(host, eventDetails) {
     return event;
 }
 export { createEvent, createUser };
-//# sourceMappingURL=compileMe.js.map
